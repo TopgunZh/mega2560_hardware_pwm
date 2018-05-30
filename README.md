@@ -1,5 +1,9 @@
-# mega2560_hardware_pwm
-mega2560 create pwm using re
+### Aruduino MEGA 2560 Hardware PWM using register
+***
 
-### test1
-# test2
+#Introduce
+mega2560 time4 pwm mode
+
+channel1 <--> PH3
+channel2 <--> PH4
+channel3 <--> PH5
